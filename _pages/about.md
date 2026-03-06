@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Homepage"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Junhan Chen is an Electrical and Electronic Engineering student at the University of Liverpool, enrolled in a 2+2 joint programme after transferring from Xi’an Jiaotong-Liverpool University. :contentReference[oaicite:0]{index=0}
+Junhan Chen is currently a Year 2 [Electrical and Electronic Engineering](https://www.liverpool.ac.uk/xjtlu/courses/electrical-engineering-beng/electrical-and-electronic-engineering-beng-hons-electrical-and-electronic-engineering-xjtlu-pathway) student at the [University of Liverpool](https://www.liverpool.ac.uk/), United Kingdom, enrolled through a 2+2 joint programme after transferring from [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en), China, where he received the Academic Achievement Award for ranking in the top 10% of the programme.
 
-His academic interests include electrical circuits, power systems, control systems, and electronic system design. :contentReference[oaicite:1]{index=1}
-
-He has completed internships in building automation systems and power control equipment engineering, and has participated in research on LoRa-based GPS-free geolocation systems using ESP32 microcontrollers. :contentReference[oaicite:2]{index=2}
+During his studies, he has completed a broad range of coursework in electrical and electronic engineering and has gained practical engineering experience through internships involving power control equipment and building automation systems. He has also participated in research projects related to embedded systems and Internet of Things (IoT).
