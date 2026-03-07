@@ -6,15 +6,15 @@ author_profile: true
 
 <table style="border:none;">
 <tr>
-<td style="border:none;" width="80">
-<img src="/images/uol.jpeg" width="70">
+<td style="border:none; width:120px; vertical-align:top;">
+<img src="/images/uol.jpeg" width="95" alt="University of Liverpool logo">
 </td>
-<td style="border:none;">
+<td style="border:none; vertical-align:top;">
 
-<strong style="font-size:1.25em;">University of Liverpool</strong><br>
-<strong>BEng (Hons) Electrical and Electronic Engineering</strong><br>
-Liverpool, United Kingdom<br>
-2025 – 2027 (Expected)
+<strong style="font-size:1.6em;">University of Liverpool</strong><br>
+<span style="font-size:1.25em; font-weight:600;">BEng (Hons) Electrical and Electronic Engineering</span><br>
+<span style="font-size:1.08em;">Liverpool, United Kingdom</span><br>
+<span style="font-size:1.08em;">2025 – 2027 (Expected)</span>
 
 </td>
 </tr>
@@ -37,15 +37,15 @@ Liverpool, United Kingdom<br>
 
 <table style="border:none;">
 <tr>
-<td style="border:none;" width="80">
-<img src="/images/xjtlu.jpeg" width="70">
+<td style="border:none; width:120px; vertical-align:top;">
+<img src="/images/xjtlu.jpeg" width="95" alt="Xi’an Jiaotong-Liverpool University logo">
 </td>
-<td style="border:none;">
+<td style="border:none; vertical-align:top;">
 
-<strong style="font-size:1.25em;">Xi’an Jiaotong-Liverpool University</strong><br>
-<strong>BEng (Hons) Electrical Engineering</strong><br>
-Suzhou, China<br>
-2023 – 2025
+<strong style="font-size:1.6em;">Xi’an Jiaotong-Liverpool University</strong><br>
+<span style="font-size:1.25em; font-weight:600;">BEng (Hons) Electrical Engineering</span><br>
+<span style="font-size:1.08em;">Suzhou, China</span><br>
+<span style="font-size:1.08em;">2023 – 2025</span>
 
 </td>
 </tr>
