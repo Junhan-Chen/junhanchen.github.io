@@ -3,6 +3,7 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
+
 <table>
 <tr>
 <td width="80">
