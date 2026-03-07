@@ -7,7 +7,7 @@ author_profile: true
 <table style="border:none;">
 <tr>
 <td style="border:none;" width="80">
-<img src="/images/uol.png" width="70">
+<img src="/images/uol.jpeg" width="70">
 </td>
 <td style="border:none;">
 
@@ -38,7 +38,7 @@ Liverpool, United Kingdom<br>
 <table style="border:none;">
 <tr>
 <td style="border:none;" width="80">
-<img src="/images/xjtlu.png" width="70">
+<img src="/images/xjtlu.jpeg" width="70">
 </td>
 <td style="border:none;">
 
