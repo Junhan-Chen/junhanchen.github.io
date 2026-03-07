@@ -9,8 +9,20 @@ author_profile: true
 Liverpool, United Kingdom  
 2025 – Present  
 
-Junhan Chen is currently a Year 2 undergraduate student in Electrical and Electronic Engineering at the University of Liverpool.  
-He transferred through the **2+2 joint programme** with Xi’an Jiaotong-Liverpool University.
+Transferred to the University of Liverpool through the **2+2 joint programme** with Xi’an Jiaotong-Liverpool University.
+
+### Year 2 (Current Modules, 2025–2026)
+
+- ELEC202 – Communication Systems  
+- ELEC207 – Instrumentation & Control  
+- ELEC209 – Electrical Circuits & Power Systems  
+- ELEC210 – Electromagnetics  
+- ELEC211 – Digital Electronics & Microprocessor Systems  
+- ELEC212 – CMOS Integrated Circuits  
+- ELEC219 – Amplifier Circuits – Design and Applications  
+- ELEC270 – Signals and Systems  
+- ELEC273 – Applied Design & Industrial Awareness  
+- MATH283 – Field Theory and Partial Differential Equations  
 
 ---
 
@@ -19,48 +31,33 @@ He transferred through the **2+2 joint programme** with Xi’an Jiaotong-Liverpo
 Suzhou, China  
 2023 – 2025  
 
-Junhan Chen completed the first stage of the 2+2 joint programme at Xi’an Jiaotong-Liverpool University.
+### Year 1 (Stage 2)
 
-**Stage 1 Average:** 74%  
-**Stage 2 Average:** 79%
-
----
-
-### Year 1 (2023–2024)
-
-#### Semester 1
-- Advanced English Communication and Academic Skills I — 68%  
-- The Basic Principles of Marxism — 69%  
-- Mao Zedong Thought and the Theory of Socialism with Chinese Characteristics — 70%  
-- Linear Algebra — 74%  
-- Calculus (Science and Engineering) — 76%  
-- Physical Education I — 74%  
-- Foundations of Computer Science and Engineering — 85%  
-- Spanish Language I — 71%
-
-#### Semester 2
-- Ideological and Moral Cultivation and Basis of Law — 81%  
-- Outline of Chinese Modern History — 71%  
-- Multivariable Calculus (Science and Engineering) — 72%  
-- Physical Education II — 85%  
-- Physics — 85%  
-- Spanish Language II — 71%
+- ACYR111 – English Language and Study Skills for Advanced Technology  
+- CAN102 – Electromagnetism and Electromechanics  
+- CPT109 – C Programming and Software Engineering I  
+- EEE103 – Electrical Circuits I  
+- EEE104 – Digital Electronics I  
+- EEE109 – Electronic Circuits  
+- EEE112 – Integrated Electronics and Design  
+- MEC104 – Experimental, Computer Skills and Sustainability  
+- MEC106 – Engineering Drawing  
+- MTH101 – Engineering Mathematics I  
+- MTH102 – Engineering Mathematics II  
 
 ---
 
-### Year 2 (2024–2025)
+### Year 0 (Stage 1)
 
-#### Semester 1
-- English Language and Study Skills for Advanced Technology — 74%  
-- C Programming and Software Engineering I — 90%  
-- Electrical Circuits I — 68%  
-- Digital Electronics I — 68%  
-- Engineering Drawing — 68%  
-- Engineering Mathematics I — 77%
-
-#### Semester 2
-- Electromagnetism and Electromechanics — 73%  
-- Electronic Circuits — 86%  
-- Integrated Electronics and Design — 84%  
-- Experimental, Computer Skills and Sustainability — 83%  
-- Engineering Mathematics II — 100%
+- CCT001 – The Basic Principles of Marxism  
+- CCT008 – Ideological and Moral Cultivation and Basis of Law  
+- CCT010 – Outline of Chinese Modern History  
+- CCT011 – Mao Zedong Thought and the Theory of Socialism with Chinese Characteristics  
+- EAP035 – Advanced English Communication and Academic Skills I  
+- MTH007 – Linear Algebra  
+- MTH008 – Multivariable Calculus (Science and Engineering)  
+- MTH013 – Calculus (Science and Engineering)  
+- PHY002 – Physics  
+- SAT006 – Foundations of Computer Science and Engineering  
+- SPA001 – Spanish Language I  
+- SPA002 – Spanish Language II  
