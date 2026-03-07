@@ -16,6 +16,10 @@ author_profile: true
 Liverpool, United Kingdom  
 2025 – 2027 (Expected)  
 
+</td>
+</tr>
+</table>
+
 ### Current Modules (Year 2, 2025–2026)
 - ELEC202 – Communication Systems  
 - ELEC207 – Instrumentation & Control  
@@ -41,6 +45,10 @@ Liverpool, United Kingdom
 **BEng (Hons) Electrical Engineering**  
 Suzhou, China  
 2023 – 2025  
+
+</td>
+</tr>
+</table>
 
 ### Year 0 Modules (2023-2024)
 - MTH007 – Linear Algebra  
