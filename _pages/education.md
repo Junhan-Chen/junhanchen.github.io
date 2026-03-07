@@ -23,7 +23,7 @@ Liverpool, United Kingdom
 ---
 
 ## Xi’an Jiaotong-Liverpool University  
-**BEng Electrical Engineering**  
+**BEng (Hons) Electrical Engineering**  
 Suzhou, China  
 2023 – 2025  
 
