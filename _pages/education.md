@@ -6,7 +6,7 @@ author_profile: true
 ## University of Liverpool  
 **BEng (Hons) Electrical and Electronic Engineering**  
 Liverpool, United Kingdom  
-2025 – 2027(Expected)  
+2025 – 2027 (Expected)  
 
 ### Current Modules (Year 2, 2025–2026)
 - ELEC202 – Communication Systems  
