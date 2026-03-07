@@ -32,6 +32,7 @@ author_profile: true
 - ELEC270 – Signals and Systems  
 - ELEC273 – Applied Design & Industrial Awareness  
 - MATH283 – Field Theory and Partial Differential Equations
+
   
 ---
 
