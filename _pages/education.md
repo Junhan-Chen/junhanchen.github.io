@@ -6,9 +6,9 @@ author_profile: true
 ## University of Liverpool  
 **BEng (Hons) Electrical and Electronic Engineering**  
 Liverpool, United Kingdom  
-2025 – Present  
+2025 – 2027(Expected)  
 
-### Year 2 (Current Modules, 2025–2026)
+### Current Modules (Year 2, 2025–2026)
 - ELEC202 – Communication Systems  
 - ELEC207 – Instrumentation & Control  
 - ELEC209 – Electrical Circuits & Power Systems  
@@ -27,7 +27,19 @@ Liverpool, United Kingdom
 Suzhou, China  
 2023 – 2025  
 
-### Year 1 (Stage 2)
+### Year 0 Modules (2023-2024)
+- MTH007 – Linear Algebra  
+- MTH008 – Multivariable Calculus (Science and Engineering)  
+- MTH013 – Calculus (Science and Engineering)  
+- PHY002 – Physics  
+- SAT006 – Foundations of Computer Science and Engineering  
+- SPA001 – Spanish Language I  
+- SPA002 – Spanish Language II
+- EAP035 – Advanced English Communication and Academic Skills I  
+
+---
+
+### Year 1 Modules (2024-2025)
 - CAN102 – Electromagnetism and Electromechanics  
 - CPT109 – C Programming and Software Engineering I  
 - EEE103 – Electrical Circuits I  
@@ -39,15 +51,3 @@ Suzhou, China
 - MTH101 – Engineering Mathematics I  
 - MTH102 – Engineering Mathematics II
 - EAP111 – English Language and Study Skills for Advanced Technology  
-
----
-
-### Year 0 (Stage 1)
-- MTH007 – Linear Algebra  
-- MTH008 – Multivariable Calculus (Science and Engineering)  
-- MTH013 – Calculus (Science and Engineering)  
-- PHY002 – Physics  
-- SAT006 – Foundations of Computer Science and Engineering  
-- SPA001 – Spanish Language I  
-- SPA002 – Spanish Language II
-- EAP035 – Advanced English Communication and Academic Skills I  
