@@ -3,6 +3,13 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
+<table>
+<tr>
+<td width="80">
+<img src="/images/uol.png" width="60">
+</td>
+<td>
+
 ## University of Liverpool  
 **BEng (Hons) Electrical and Electronic Engineering**  
 Liverpool, United Kingdom  
@@ -21,6 +28,13 @@ Liverpool, United Kingdom
 - MATH283 – Field Theory and Partial Differential Equations
   
 ---
+
+<table>
+<tr>
+<td width="80">
+<img src="/images/xjtlu.png" width="60">
+</td>
+<td>
 
 ## Xi’an Jiaotong-Liverpool University  
 **BEng (Hons) Electrical Engineering**  
