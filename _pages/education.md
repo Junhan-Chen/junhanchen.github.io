@@ -18,7 +18,8 @@ Liverpool, United Kingdom
 - ELEC219 – Amplifier Circuits – Design and Applications  
 - ELEC270 – Signals and Systems  
 - ELEC273 – Applied Design & Industrial Awareness  
-- MATH283 – Field Theory and Partial Differential Equations  
+- MATH283 – Field Theory and Partial Differential Equations
+  
 ---
 
 ## Xi’an Jiaotong-Liverpool University  
@@ -34,7 +35,8 @@ Suzhou, China
 - SAT006 – Foundations of Computer Science and Engineering  
 - SPA001 – Spanish Language I  
 - SPA002 – Spanish Language II
-- EAP035 – Advanced English Communication and Academic Skills I  
+- EAP035 – Advanced English Communication and Academic Skills I
+  
 ---
 ### Year 1 Modules (2024-2025)
 - CAN102 – Electromagnetism and Electromechanics  
