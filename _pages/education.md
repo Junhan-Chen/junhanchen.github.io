@@ -3,13 +3,10 @@ title: "Education"
 permalink: /education/
 author_profile: true
 ---
-
 ## University of Liverpool  
 **BEng (Hons) Electrical and Electronic Engineering**  
 Liverpool, United Kingdom  
 2025 – Present  
-
-Transferred to the University of Liverpool through the **2+2 joint programme** with Xi’an Jiaotong-Liverpool University.
 
 ### Year 2 (Current Modules, 2025–2026)
 - ELEC202 – Communication Systems  
