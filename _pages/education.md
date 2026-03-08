@@ -66,7 +66,6 @@ author_profile: true
 - SPA002 – Spanish Language II  
 - EAP035 – Advanced English Communication and Academic Skills I
   
----
 
 ### Year 1 Modules (2024–2025)
 
