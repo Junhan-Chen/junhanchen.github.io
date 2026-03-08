@@ -154,3 +154,44 @@
 .project-card__links a:hover {
   text-decoration: underline;
 }
+
+/* ---------- Mobile navigation ---------- */
+@media (max-width: 768px) {
+  /* 手机上只保留网站标题，其余顶部导航隐藏 */
+  .greedy-nav .visible-links > li:not(.masthead__menu-item--lg) {
+    display: none !important;
+  }
+
+  /* 强制显示右上角汉堡按钮 */
+  .greedy-nav button {
+    display: block !important;
+  }
+
+  /* 汉堡菜单下拉位置和样式 */
+  .greedy-nav .hidden-links {
+    right: 0.75rem;
+    left: auto;
+    width: 220px;
+    margin-top: 0.5rem;
+    border: 1px solid #dddddd;
+    border-radius: 8px;
+    background: #ffffff;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  }
+
+  .greedy-nav .hidden-links li {
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #eeeeee;
+  }
+
+  .greedy-nav .hidden-links li:last-child {
+    border-bottom: none;
+  }
+
+  .greedy-nav .hidden-links a {
+    display: block;
+    padding: 0.8rem 1rem;
+    text-decoration: none;
+  }
+}
