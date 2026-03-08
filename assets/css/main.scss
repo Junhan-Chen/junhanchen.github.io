@@ -108,3 +108,49 @@
 .page__content p {
   margin-bottom: 0.7rem;
 }
+
+/* ---------- Project card layout ---------- */
+
+.project-card {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem 1.2rem;
+  border: 1px solid #dddddd;
+  border-radius: 10px;
+  background: #fafafa;
+}
+
+.project-card__title {
+  font-size: 1.55rem;
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
+
+.project-card__meta {
+  font-size: 1.05rem;
+  font-style: italic;
+  color: #666;
+  margin-bottom: 0.8rem;
+}
+
+.project-card__body {
+  font-size: 1.02rem;
+  line-height: 1.7;
+  margin-bottom: 0.8rem;
+}
+
+.project-card__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.9rem;
+  margin-top: 0.4rem;
+}
+
+.project-card__links a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.project-card__links a:hover {
+  text-decoration: underline;
+}
