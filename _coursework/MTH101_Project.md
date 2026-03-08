@@ -36,12 +36,6 @@ $$
 F(s) = \int_{0}^{\infty} f(t)e^{-st}dt
 $$
 
-where  
-
-- \(t\) is time  
-- \(s\) is a complex variable  
-- \(j\) is the imaginary unit  
-
 This transformation converts differential equations into algebraic equations in the frequency domain, making it easier to analyse system behaviour. 
 
 ---
