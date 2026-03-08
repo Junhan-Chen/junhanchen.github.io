@@ -64,3 +64,25 @@
 .page__title {
   margin-bottom: 0.5rem !important;
 }
+
+/* -------- Research page spacing fixes -------- */
+
+/* Remove line under project titles */
+.page__content h3 {
+  border-bottom: none !important;
+}
+
+/* Reduce space between section title and project title */
+.page__content h2 {
+  margin-bottom: 0.6rem !important;
+}
+
+/* Reduce space above project titles */
+.page__content h3 {
+  margin-top: 0.6rem !important;
+}
+
+/* Reduce space under project titles */
+.page__content h3 + p {
+  margin-top: 0.3rem !important;
+}
