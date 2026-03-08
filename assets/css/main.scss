@@ -40,3 +40,27 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+/* -------------------------------- */
+/* Custom styling overrides */
+/* -------------------------------- */
+
+/* Remove footer divider line */
+.page__footer {
+  border-top: none !important;
+  text-align: center;
+  font-size: 0.9em;
+  margin-top: 2rem;
+  padding-top: 1rem;
+}
+
+/* Remove heading separators */
+.page__content h3 {
+  border-bottom: none !important;
+}
+
+/* Reduce spacing under page title */
+.page__title {
+  margin-bottom: 0.5rem !important;
+}
