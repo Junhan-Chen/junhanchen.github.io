@@ -162,32 +162,82 @@
     display: none !important;
   }
 
-  /* 强制显示汉堡按钮 */
-  .greedy-nav button {
-    display: block !important;
-    position: absolute;
-    right: 1rem;
-    top: 50%;
-    transform: translateY(-50%);
-    z-index: 20;
-  }
-
-  /* 给导航容器留出按钮空间 */
+  /* 导航容器 */
   .greedy-nav {
     position: relative;
-    padding-right: 3.5rem;
+    padding-right: 4rem;
   }
 
-  /* 默认隐藏下拉菜单，点击后由 JS 去掉 hidden 类 */
+  /* 强制显示按钮，不受主题 JS 影响 */
+  .greedy-nav button,
+  .greedy-nav button.hidden {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    position: absolute;
+    right: 0.8rem;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 9999;
+    background: transparent;
+    border: 0;
+    padding: 0.25rem 0.4rem;
+    width: 2.2rem;
+    height: 2rem;
+  }
+
+  /* 三横线图标 */
+  .greedy-nav .navicon {
+    display: block !important;
+    position: relative;
+    width: 1.6rem;
+    height: 0.18rem;
+    background: #4a4f55;
+    border-radius: 2px;
+    margin: 0 auto;
+  }
+
+  .greedy-nav .navicon:before,
+  .greedy-nav .navicon:after {
+    content: "";
+    display: block;
+    position: absolute;
+    left: 0;
+    width: 1.6rem;
+    height: 0.18rem;
+    background: #4a4f55;
+    border-radius: 2px;
+  }
+
+  .greedy-nav .navicon:before {
+    top: -0.45rem;
+  }
+
+  .greedy-nav .navicon:after {
+    top: 0.45rem;
+  }
+
+  /* 默认隐藏下拉菜单 */
   .greedy-nav .hidden-links {
+    display: none !important;
+    position: absolute;
     right: 0.75rem;
+    top: calc(100% + 0.5rem);
     left: auto;
     width: 220px;
-    margin-top: 0.5rem;
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
     border: 1px solid #dddddd;
     border-radius: 8px;
     background: #ffffff;
     box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+    z-index: 9998;
+  }
+
+  /* 打开时显示 */
+  .greedy-nav .hidden-links.mobile-open {
+    display: block !important;
   }
 
   .greedy-nav .hidden-links li {
