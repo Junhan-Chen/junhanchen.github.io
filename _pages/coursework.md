@@ -10,9 +10,7 @@ Together, these projects demonstrate the application of theoretical knowledge to
 
 ---
 
-# Coursework Projects
-
-## Current Projects
+# Current Projects
 
 <div class="project-card">
 
@@ -34,6 +32,8 @@ Together, these projects demonstrate the application of theoretical knowledge to
 
 </div>
 
-## Past Projects
+---
+
+# Past Projects
 
 <!-- project cards will go here -->
