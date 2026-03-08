@@ -4,6 +4,8 @@ permalink: /education/
 author_profile: true
 ---
 
+---
+
 <table style="border:none;">
 <tr>
 <td style="border:none; width:120px; vertical-align:top;">
