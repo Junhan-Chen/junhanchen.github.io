@@ -15,3 +15,27 @@
 <meta name="theme-color" content="#ffffff"/>
 
 <!-- end custom head snippets -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  if (window.innerWidth > 768) return;
+
+  const nav = document.querySelector(".greedy-nav");
+  if (!nav) return;
+
+  const button = nav.querySelector("button");
+  const hiddenLinks = nav.querySelector(".hidden-links");
+
+  if (!button || !hiddenLinks) return;
+
+  button.addEventListener("click", function (e) {
+    e.preventDefault();
+    hiddenLinks.classList.toggle("mobile-open");
+  });
+
+  document.addEventListener("click", function (e) {
+    if (!nav.contains(e.target)) {
+      hiddenLinks.classList.remove("mobile-open");
+    }
+  });
+});
+</script>
