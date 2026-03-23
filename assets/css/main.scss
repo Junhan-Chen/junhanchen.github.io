@@ -256,3 +256,13 @@
     text-decoration: none;
   }
 }
+
+/* ---------- Reduce spacing between subsection headings ---------- */
+
+.page__content h2 + h3 {
+  margin-top: 0.2rem !important;
+}
+
+.page__content h3 {
+  margin-bottom: 0.5rem !important;
+}
