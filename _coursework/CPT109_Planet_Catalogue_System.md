@@ -200,3 +200,123 @@ The overall workflow of the system can be summarised as:
 3. Access to role-specific menu  
 4. Execution of selected functions  
 5. Return to menu or exit  
+
+---
+
+# Implementation
+
+## Overview
+
+The system was implemented in C using a modular structure.  
+Each functionality was encapsulated into separate functions, allowing clear organisation of the program and easier maintenance.
+
+The implementation integrates:
+
+- structured data types  
+- linked data structures  
+- file-based storage  
+- menu-driven interaction  
+
+---
+
+## Data Storage and File Handling
+
+Planet data and user account information are stored using external files.
+
+- Planet data is stored in a file (e.g. `planetcat.txt`)  
+- User account data is stored separately  
+
+File operations are implemented using standard C functions:
+
+- `fopen()` for opening files  
+- `fprintf()` for writing data  
+- `fread()` / `fgets()` for reading data  
+- `fclose()` for closing files  
+
+This approach allows persistent storage of data across program executions.
+
+---
+
+## Dynamic Data Management
+
+The system uses **dynamic memory allocation** and **linked lists** to manage data.
+
+- `malloc()` is used to allocate memory for new records  
+- Linked lists are used to store and traverse planet and user data  
+
+This design enables:
+
+- flexible insertion and deletion of records  
+- efficient traversal for search operations  
+- avoidance of fixed-size data limitations  
+
+---
+
+## Core Functional Implementation
+
+### Planet Data Management (Admin)
+
+- `increasep1()` is used to add new planet data  
+- `modifyPlanet()` updates existing records  
+- `deletePlanet()` removes planet entries  
+
+These functions operate by:
+
+1. locating the target record in the linked list  
+2. modifying or deleting the data  
+3. updating the file to reflect the changes  
+
+---
+
+### Search Functionality (Researcher)
+
+- `searchPlanet()` allows users to search for planets based on different attributes  
+
+The implementation:
+
+- takes user input  
+- traverses the linked list  
+- compares values using `strcmp()` or numerical checks  
+- returns matching planet data  
+
+---
+
+### Account Management
+
+- `creatacc()` is used to create new accounts  
+- `modifyAccount()` updates user credentials  
+
+The system ensures:
+
+- unique account identification  
+- validation of user input  
+- persistent storage in file  
+
+---
+
+### Statistics Function
+
+- `viewStatistics()` calculates and displays system statistics  
+
+This includes:
+
+- number of catalogued planets  
+- number of discovered planets  
+- number of observed planets  
+- number of registered users  
+
+---
+
+## Program Interaction
+
+The system is implemented as a **menu-driven interface**.
+
+- `mainmenu()` displays the main system menu  
+- Different menus are presented based on user role  
+
+User interaction is handled using:
+
+- `printf()` for displaying options  
+- `scanf()` / `fgets()` for input  
+
+This structure enables continuous operation until the user chooses to exit the program.
