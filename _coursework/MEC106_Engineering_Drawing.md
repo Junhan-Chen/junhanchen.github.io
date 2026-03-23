@@ -59,8 +59,7 @@ The task was to produce complete engineering drawings by hand, including:
 
 ### Final Drawing
 
-The front view and right-side view were first interpreted to reconstruct the geometry of the object.  
-Based on this, the missing top view and the isometric sketch were produced.
+The front view and right-side view were first interpreted to reconstruct the geometry of the object. Based on this, the missing top view and the isometric sketch were produced.
 
 <figure style="text-align:center;">
   <img src="/images/MEC106_ComponentA.png" width="700">
@@ -116,8 +115,7 @@ The geometry of Component C was reconstructed from the given projections, and th
 
 ## Section Summary
 
-This section demonstrates the process of reconstructing three-dimensional geometry from orthographic projections.  
-For each component, the given views were interpreted, missing views were derived, and isometric sketches were produced to represent the final 3D form.
+This section demonstrates the process of reconstructing three-dimensional geometry from orthographic projections. For each component, the given views were interpreted, missing views were derived, and isometric sketches were produced to represent the final 3D form.
 
 ---
 
@@ -194,3 +192,5 @@ The geometry was reconstructed in Creo using parametric modelling features such 
 ## Section Summary
 
 This section demonstrates the workflow from interpreting dimensioned engineering drawings to constructing parametric 3D models and generating manufacturing-ready multiview drawings using CAD.
+
+
