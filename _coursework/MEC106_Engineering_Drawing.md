@@ -35,8 +35,6 @@ Through completing this coursework project, the following competencies were deve
 
 ---
 
----
-
 # Section A – Isometric Sketch and Multiview Drawings
 
 ## Assignment Requirement
@@ -120,3 +118,79 @@ The geometry of Component C was reconstructed from the given projections, and th
 
 This section demonstrates the process of reconstructing three-dimensional geometry from orthographic projections.  
 For each component, the given views were interpreted, missing views were derived, and isometric sketches were produced to represent the final 3D form.
+
+---
+
+# Section B – 3D Modeling of Given Objects
+
+## Assignment Requirement
+
+Two engineering components with full dimensions were provided.  
+The task required:
+
+- constructing 3D models using Creo  
+- generating multiview engineering drawings suitable for manufacturing  
+
+---
+
+## Object 1
+
+### Given Engineering Drawing
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_Object1_Given.png" width="650">
+  <figcaption><em>Figure 7. Given dimensioned drawing of Object 1.</em></figcaption>
+</figure>
+<br>
+
+### 3D CAD Model
+
+The geometry was reconstructed in Creo using parametric modelling features such as **Extrude, Hole, Plane, and Mirror**.
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_Object1_Model.png" width="650">
+  <figcaption><em>Figure 8. 3D CAD model of Object 1.</em></figcaption>
+</figure>
+<br>
+
+### Engineering Drawing
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_Object1_Drawing.png" width="700">
+  <figcaption><em>Figure 9. Multiview drawing generated from the CAD model.</em></figcaption>
+</figure>
+<br>
+
+---
+
+## Object 2
+
+### Given Engineering Drawing
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_Object2_Given.png" width="650">
+  <figcaption><em>Figure 10. Given dimensioned drawing of Object 2.</em></figcaption>
+</figure>
+<br>
+
+### 3D CAD Model
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_Object2_Model.png" width="650">
+  <figcaption><em>Figure 11. 3D CAD model of Object 2.</em></figcaption>
+</figure>
+<br>
+
+### Engineering Drawing
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_Object2_Drawing.png" width="700">
+  <figcaption><em>Figure 12. Multiview drawing of Object 2.</em></figcaption>
+</figure>
+<br>
+
+---
+
+## Section Summary
+
+This section demonstrates the workflow from interpreting dimensioned engineering drawings to constructing parametric 3D models and generating manufacturing-ready multiview drawings using CAD.
