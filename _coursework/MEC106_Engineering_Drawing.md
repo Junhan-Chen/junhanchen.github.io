@@ -34,3 +34,89 @@ Through completing this coursework project, the following competencies were deve
 - preparation of a **structured engineering-style technical report**
 
 ---
+
+---
+
+# Section A – Isometric Sketch and Multiview Drawings
+
+## Assignment Requirement
+
+Three components were provided in orthographic view.  
+The task was to produce complete engineering drawings by hand, including:
+
+- multiview drawings (front, top, and right-side views)  
+- isometric sketches reconstructed from the given projections  
+
+---
+
+## Component A
+
+### Given Orthographic Views
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_ComponentA_Given.png" width="650">
+  <figcaption><em>Figure 1. Given orthographic views of Component A.</em></figcaption>
+</figure>
+<br>
+
+### Final Drawing
+
+The front view and right-side view were first interpreted to reconstruct the geometry of the object.  
+Based on this, the missing top view and the isometric sketch were produced.
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_ComponentA.png" width="700">
+  <figcaption><em>Figure 2. Multiview drawings and isometric sketch of Component A.</em></figcaption>
+</figure>
+<br>
+
+---
+
+## Component B
+
+### Given Orthographic Views
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_ComponentB_Given.png" width="650">
+  <figcaption><em>Figure 3. Given orthographic views of Component B.</em></figcaption>
+</figure>
+<br>
+
+### Final Drawing
+
+For Component B, the missing top view was first derived using auxiliary construction lines, which clarified the geometry before producing the isometric sketch.
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_ComponentB.png" width="700">
+  <figcaption><em>Figure 4. Multiview drawings and isometric sketch of Component B.</em></figcaption>
+</figure>
+<br>
+
+---
+
+## Component C
+
+### Given Orthographic Views
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_ComponentC_Given.png" width="650">
+  <figcaption><em>Figure 5. Given orthographic views of Component C.</em></figcaption>
+</figure>
+<br>
+
+### Final Drawing
+
+The geometry of Component C was reconstructed from the given projections, and the complete multiview drawings and isometric sketch were produced.
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_ComponentC.png" width="700">
+  <figcaption><em>Figure 6. Multiview drawings and isometric sketch of Component C.</em></figcaption>
+</figure>
+<br>
+
+---
+
+## Section Summary
+
+This section demonstrates the process of reconstructing three-dimensional geometry from orthographic projections.  
+For each component, the given views were interpreted, missing views were derived, and isometric sketches were produced to represent the final 3D form.
