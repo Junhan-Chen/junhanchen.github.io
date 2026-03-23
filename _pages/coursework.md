@@ -39,6 +39,26 @@ Together, these projects demonstrate the application of theoretical knowledge to
 <div class="project-card">
 
   <div class="project-card__title">
+    <a href="/coursework/CPT109_Planet_Catalogue_System/" target="_blank">
+      Planet Catalogue System (C Programming Group Project)
+    </a>
+  </div>
+
+  <div class="project-card__meta">
+    Nov 2024 – Dec 2024<br>
+    CPT109 C Programming and Software Engineering, Xi'an Jiaotong-Liverpool University
+  </div>
+
+  <div class="project-card__body">
+    Developed a modular C-based software system for managing and querying planetary data, including user account management, search functionality, and statistical reporting, implemented through structured design, linked data structures, and file-based storage.
+  </div>
+
+</div>
+
+
+<div class="project-card">
+
+  <div class="project-card__title">
     <a href="/coursework/MEC106_Engineering_Drawing/" target="_blank">
       Engineering Drawing Project Assignment
     </a>
@@ -74,3 +94,4 @@ Together, these projects demonstrate the application of theoretical knowledge to
   </div>
 
 </div>
+
