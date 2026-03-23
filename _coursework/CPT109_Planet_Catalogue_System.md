@@ -182,3 +182,21 @@ After login, users are directed to different menus based on their roles:
 Each menu provides access to relevant functionalities, and users can repeatedly perform operations until they choose to exit the system.
 
 This approach ensures usability and allows clear interaction between the user and the system.
+
+## System Architecture
+
+The system follows a modular design, where different functionalities are organised into independent modules.
+
+<figure style="text-align:center;">
+  <img src="/images/CPT109_SystemFlow.png" width="600">
+  <figcaption><em>Figure 1. System workflow from login to function execution.</em></figcaption>
+</figure>
+<br>
+
+The overall workflow of the system can be summarised as:
+
+1. User login or registration  
+2. Role identification (Admin or Researcher)  
+3. Access to role-specific menu  
+4. Execution of selected functions  
+5. Return to menu or exit  
