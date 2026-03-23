@@ -16,4 +16,4 @@ author_profile: true
 
 This project involves the development of a **Planet Catalogue System**, a C-based software application designed to manage, search, and analyse planetary data for research purposes.
 
-The system was implemented as a modular program, supporting multiple user roles (Admin and Researcher) and providing functionalities such as planet data management, account handling, search and retrieval, and statistical reporting. :contentReference[oaicite:2]{index=2}
+The system was implemented as a modular program, supporting multiple user roles (Admin and Researcher) and providing functionalities such as planet data management, account handling, search and retrieval, and statistical reporting.
