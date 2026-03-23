@@ -194,3 +194,96 @@ The geometry was reconstructed in Creo using parametric modelling features such 
 This section demonstrates the workflow from interpreting dimensioned engineering drawings to constructing parametric 3D models and generating manufacturing-ready multiview drawings using CAD.
 
 
+---
+
+# Section C – Guitar Holder Design
+
+## Design Requirement
+
+The final section of the coursework involved an open-ended design task.  
+The objective was to design a **guitar holder** using Creo and produce a corresponding engineering drawing suitable for manufacturing.
+
+---
+
+## Design and CAD Model
+
+The design process began by considering the functional requirements of the holder, including **stability**, **safe contact with the instrument**, and **adaptability**.
+
+A complete 3D CAD model of the guitar holder was then developed in Creo, representing the overall structure and supporting mechanism.
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_GuitarHolder_Model_1.png" width="650">
+  <figcaption><em>Figure 13. 3D CAD model of the guitar holder.</em></figcaption>
+</figure>
+<br>
+<br>
+<br>
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_GuitarHolder_Model_2.png" width="650">
+  <figcaption><em>Figure 14. Additional view of the guitar holder model.</em></figcaption>
+</figure>
+<br>
+
+---
+
+## Engineering Drawing
+
+After completing the CAD model, multiview engineering drawings were generated in Creo to provide the necessary information for manufacturing.
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_GuitarHolder_Drawing.png" width="700">
+  <figcaption><em>Figure 15. Multiview drawing of the guitar holder.</em></figcaption>
+</figure>
+<br>
+
+---
+
+## Key Design Features
+
+### Triangular Support Structure
+
+A triangular structure was used to improve stability and reduce the likelihood of tipping.
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_GuitarHolder_Triangle.png" width="500">
+  <figcaption><em>Figure 16. Triangular structure for stability.</em></figcaption>
+</figure>
+<br>
+
+### Rounded Contact Edges
+
+Edges that may come into contact with the guitar were rounded with a radius of 5 mm to prevent damage.
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_GuitarHolder_RoundedEdges.png" width="500">
+  <figcaption><em>Figure 17. Rounded edges for protection.</em></figcaption>
+</figure>
+<br>
+
+### Adjustable Mechanism
+
+An adjustable mechanism was introduced to allow the angle between the support legs to be modified, making the holder adaptable to different guitar sizes.
+
+<figure style="text-align:center;">
+  <img src="/images/MEC106_GuitarHolder_Adjustable.png" width="500">
+  <figcaption><em>Figure 18. Adjustable support mechanism.</em></figcaption>
+</figure>
+<br>
+
+---
+
+## Section Summary
+
+This section demonstrates the transition from design requirements to a complete CAD model and engineering drawing. The final design integrates stability, protection, and adjustability into a manufacturable structure.
+
+
+---
+
+# Conclusion
+
+This coursework demonstrates the complete workflow of engineering drawing, from interpreting orthographic projections to constructing 3D CAD models and developing an original design.
+
+Section A focused on reconstructing three-dimensional geometry from given projection views through manual drawing. Section B extended this process into CAD modelling, where engineering components were built in Creo and translated into manufacturing-ready drawings. Section C introduced an open-ended design task, applying these skills to develop a functional guitar holder with structural stability, protective features, and basic adjustability.
+
+Overall, the project integrates engineering drawing, spatial visualisation, CAD modelling, and design thinking into a coherent process, reflecting the transition from representation to realisable engineering design.
