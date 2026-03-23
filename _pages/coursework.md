@@ -40,7 +40,7 @@ Together, these projects demonstrate the application of theoretical knowledge to
 
   <div class="project-card__title">
     <a href="/coursework/CPT109_Planet_Catalogue_System/" target="_blank">
-      Planet Catalogue System (C Programming Group Project)
+      Planet Catalogue System
     </a>
   </div>
 
