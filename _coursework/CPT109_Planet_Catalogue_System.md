@@ -7,7 +7,7 @@ author_profile: true
 **Team:** Junhan Chen, Shengda Gao, Yiwen Wang, Yang Tian, Siyuan Lin  
 **Course:** CPT109 C Programming and Software Engineering 1  
 **Institution:** Xi'an Jiaotong-Liverpool University  
-**Date:** Oct 2024 – Dec 2024  
+**Date:** Nov 2024 – Dec 2024  
 **Language:** C (C90)
 
 ---
