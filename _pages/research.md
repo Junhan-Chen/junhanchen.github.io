@@ -38,20 +38,24 @@ Research interests currently span multiple areas of electrical and electronic en
 <div class="project-card">
 
   <div class="project-card__title">
-  Impact of Environmental Factors on LoRa 2.4 GHz Time-of-Flight Ranging Outdoors
+    <a href="https://ieeexplore.ieee.org/document/11318902" target="_blank">
+      Impact of Environmental Factors on LoRa 2.4 GHz Time-of-Flight Ranging Outdoors
+    </a>
   </div>
 
   <div class="project-card__meta">
-    <a href="https://is-candar.org/gca25">GCA’25</a>, Sep 27 2025
+    Sep 27 2025 <br>
+    Conference: <a href="https://is-candar.org/gca25" target="_blank">GCA’25</a><br>
   </div>
 
   <div class="project-card__body">
-    Y. Zhou, X. Zhou, Z. Cheng, C. Lu, <strong>J. Chen</strong>, J. Pan, Y. Liu, S. Li, and K. S. Kim,<br>
+    Y. Zhou, X. Zhou, Z. Cheng, C. Lu, <strong>J. Chen</strong>, J. Pan, Y. Liu, S. Li, and K. S. Kim<br>
+    Research output from the SURF project on GPS-Free Geolocation Based on LoRa.
   </div>
 
   <div class="project-card__links">
-    <a href="https://ieeexplore.ieee.org/document/11318902">DOI</a>
-    <a href="https://arxiv.org/abs/2509.23125">arXiv</a>
+    <a href="https://ieeexplore.ieee.org/document/11318902" target="_blank">DOI</a>
+    <a href="https://arxiv.org/abs/2509.23125" target="_blank">arXiv</a>
   </div>
 
 </div>
