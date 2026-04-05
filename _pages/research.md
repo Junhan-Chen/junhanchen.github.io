@@ -46,10 +46,10 @@ Research interests currently span multiple areas of electrical and electronic en
   <div class="project-card__meta">
     Sep 27 2025 <br>
     Conference: <a href="https://is-candar.org/gca25" target="_blank">GCA’25</a><br>
+    Authors: Y. Zhou, X. Zhou, Z. Cheng, C. Lu, <strong>J. Chen</strong>, J. Pan, Y. Liu, S. Li, and K. S. Kim <br>
   </div>
 
   <div class="project-card__body">
-    Y. Zhou, X. Zhou, Z. Cheng, C. Lu, <strong>J. Chen</strong>, J. Pan, Y. Liu, S. Li, and K. S. Kim<br>
     Research output from the SURF project on GPS-Free Geolocation Based on LoRa.
   </div>
 
