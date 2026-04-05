@@ -46,7 +46,7 @@ Together, these projects demonstrate the application of theoretical knowledge to
 
   <div class="project-card__meta">
     Nov 2024 – Dec 2024<br>
-    CPT109 C Programming and Software Engineering, Xi'an Jiaotong-Liverpool University
+    CPT109: C Programming and Software Engineering, Xi'an Jiaotong-Liverpool University
   </div>
 
   <div class="project-card__body">
@@ -66,7 +66,7 @@ Together, these projects demonstrate the application of theoretical knowledge to
 
   <div class="project-card__meta">
     Nov 2024 – Dec 2024<br>
-    MEC106 Engineering Drawing, Xi'an Jiaotong-Liverpool University
+    MEC106: Engineering Drawing, Xi'an Jiaotong-Liverpool University
   </div>
 
   <div class="project-card__body">
@@ -86,7 +86,7 @@ Together, these projects demonstrate the application of theoretical knowledge to
 
   <div class="project-card__meta">
     Oct 2024 – Dec 2024<br>
-    MTH 101 Engineering Mathematics, Xi'an Jiaotong-Liverpool University
+    MTH101: Engineering Mathematics, Xi'an Jiaotong-Liverpool University
   </div>
 
   <div class="project-card__body">
