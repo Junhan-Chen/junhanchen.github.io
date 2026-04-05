@@ -25,9 +25,28 @@ Research interests currently span multiple areas of electrical and electronic en
   </div>
 
   <div class="project-card__body">
+    Focused on improving node positioning accuracy in large-area sensing applications through a hybrid method combining ranging and signal fingerprinting. The project explores multiple two-way message exchanges, RSS-based localization, and beacon arrival time analysis, with validation on a LoRa experimental testbed.
+  </div>
+
+
+</div>
+
+---
+
+# Publications
+
+<div class="project-card">
+
+  <div class="project-card__title">
+  Impact of Environmental Factors on LoRa 2.4 GHz Time-of-Flight Ranging Outdoors
+  </div>
+
+  <div class="project-card__meta">
+    <a href="https://is-candar.org/gca25">GCA’25</a>, Sep. 27, 2025
+  </div>
+
+  <div class="project-card__body">
     Y. Zhou, X. Zhou, Z. Cheng, C. Lu, <strong>J. Chen</strong>, J. Pan, Y. Liu, S. Li, and K. S. Kim,<br>
-    “Impact of Environmental Factors on LoRa 2.4 GHz Time-of-Flight Ranging Outdoors,”<br>
-    accepted for presentation at <a href="https://is-candar.org/gca25">GCA’25</a>, Sep. 27, 2025.
   </div>
 
   <div class="project-card__links">
