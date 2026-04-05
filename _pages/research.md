@@ -42,7 +42,7 @@ Research interests currently span multiple areas of electrical and electronic en
   </div>
 
   <div class="project-card__meta">
-    <a href="https://is-candar.org/gca25">GCA’25</a>, Sep. 27, 2025
+    <a href="https://is-candar.org/gca25">GCA’25</a>, Sep 27 2025
   </div>
 
   <div class="project-card__body">
